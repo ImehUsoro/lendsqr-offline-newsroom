@@ -38,15 +38,18 @@ const SignUp = () => {
   });
 
   return (
-    <div className="max-w-screen-xl h-screen flex flex-col items-center justify-center mx-auto">
-      <h1 className="text-4xl text-center mb-2 text-red-600 font-semibold">
+    <div className="max-w-screen-xl h-screen flex flex-col items-center justify-center mx-auto p-6">
+      <h1 className="sm:text-4xl text-2xl text-center mb-2 text-red-600 font-semibold">
         Welcome to News Room
       </h1>
       <p className="text-center text-gray-700 font-semibold mb-10">
         Bringing you news with or without the internet.
       </p>
 
-      <form className="w-2/5 flex flex-col" onSubmit={formik.handleSubmit}>
+      <form
+        className="w-4/5 md:w-2/5 flex flex-col"
+        onSubmit={formik.handleSubmit}
+      >
         <div className="mb-4">
           <label htmlFor="" className="block mb-1">
             Name

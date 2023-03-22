@@ -53,13 +53,13 @@ const NewsContent = () => {
           damping: 20,
         }}
       >
-        <h1 className="text-4xl mb-2 text-red-600 font-semibold mt-7">
+        <h1 className="sm:text-4xl text-2xl mb-6 text-red-600 font-semibold mt-10">
           {news?.title}
         </h1>
         <p className="">{news?.story_content}</p>
 
         {!ratingSubmitted && (
-          <div className="flex items-center gap-4 mt-10 ">
+          <div className="flex flex-col items-start sm:flex-row sm:items-center  gap-4 mt-10 ">
             <p className="text-lg font-semibold">Rate this news</p>
             <select
               name=""
@@ -74,7 +74,9 @@ const NewsContent = () => {
             </select>
 
             <button
+              disabled={loading}
               onClick={() => {
+                setLoading(true);
                 setTimeout(() => {
                   setLoading(false);
                   setFeedbackInput("");
@@ -82,7 +84,7 @@ const NewsContent = () => {
                   setRatingSubmitted(true);
                 }, 2000);
               }}
-              className="bg-teal-500 py-2 px-5 text-white rounded hover:bg-teal-600 active:bg-teal-700 transition-all duration-200"
+              className="bg-teal-500 py-2 px-5 text-white rounded hover:bg-teal-600 active:bg-teal-700 transition-all duration-200 disabled:opacity-40"
             >
               Submit rating
             </button>

@@ -5,12 +5,14 @@ export const data = {
 
       story_date: "2022-03-21",
 
-      title: "Sample News Title 1",
+      title:
+        "Tinubu’s call for healing can’t happen without justice – LP’s Rhodes-Vivour",
 
-      excerpt: "This is a sample news article about a topic of interest.",
+      excerpt:
+        "Governorship candidate of the Labour Party in Saturday’s gubernatorial poll.",
 
       story_content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed suscipit leo eu risus volutpat dapibus.",
+        "Governorship candidate of the Labour Party in Saturday’s gubernatorial poll, Gbadebo Rhodes-Vivour (GRV) has said President-Elect, Bola Ahmed Tinubu’s call for healing after the elections cannot happen without justice to all the alleged infractions that happened during the electoral process that is now nearing completion.",
 
       author: {
         name: "John Doe",
@@ -34,12 +36,14 @@ export const data = {
 
       story_date: "2022-03-20",
 
-      title: "Sample News Title 2",
+      title:
+        "INEC completes nationwide review of governorship election results",
 
-      excerpt: "This is another sample news article about a different topic.",
+      excerpt:
+        "The Independent National Electoral Commission, INEC, said it had concluded a review of the results of last Saturday’s governorship election, which held in 28 states.",
 
       story_content:
-        "Praesent nec orci id turpis lacinia consectetur eu vitae ex. Donec dictum fringilla lorem, nec iaculis metus interdum quis.",
+        "The Independent National Electoral Commission, INEC, said it had concluded a review of the results of last Saturday’s governorship election, which held in 28 states. According to the commission, it had also completed the review of the results for Abia and Enugu states, where it had earlier suspended further collation following a series of electoral malfeasance and violence. INEC National Commissioner in charge of the Information and Voter Education Committee, Festus Okoye, disclosed this in a statement on Wednesday in Abuja",
 
       author: {
         name: "Jane Smith",
@@ -62,12 +66,13 @@ export const data = {
 
       story_date: "2022-03-21",
 
-      title: "Sample News Title 3",
+      title: "Lagos train accident: 19 patients on admission – Abayomi",
 
-      excerpt: "This is a sample news article about a topic of interest.",
+      excerpt:
+        "The Lagos State Commissioner for Health, Prof. Akin Abayomi, says 19 patients involved in the train-bus collision accident are currently receiving treatment at three state public health facilities.",
 
       story_content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed suscipit leo eu risus volutpat dapibus.",
+        "The Lagos State Commissioner for Health, Prof. Akin Abayomi, says 19 patients involved in the train-bus collision accident are currently receiving treatment at three state public health facilities. Abayomi disclosed this in a situation update about the accident on Wednesday in Lagos. The News Agency of Nigeria reports that the state between March 10 and 15 had discharged 66 patients involved in accidents from five state hospitals. Abayomi said that 11 patients were discharged on March 22 after successful treatment making it 77 patients that had been successfully treated and discharged from various hospitals.",
 
       author: {
         name: "John Doe",
@@ -90,12 +95,14 @@ export const data = {
 
       story_date: "2022-03-21",
 
-      title: "Sample News Title 4",
+      title:
+        "Guber poll: Sanwo-Olu receives INEC’s official results as duly elected gov",
 
-      excerpt: "This is a sample news article about a topic of interest.",
+      excerpt:
+        "The Lagos State Governor, Babajide Sanwo-Olu has received his official Independent National Electoral Commission, INEC, election results confirming him as the duly elected Executive Governor of the state.",
 
       story_content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed suscipit leo eu risus volutpat dapibus.",
+        "The Lagos State Governor, Babajide Sanwo-Olu has received his official Independent National Electoral Commission, INEC, election results confirming him as the duly elected Executive Governor of the state after winning the 2023 Governorship election. His election result was presented to him by Senator Tokunbo Afikuyomi, Head of Lagos State All Progressives Congress, APC, Election Task Force for the Governorship and State House of Assembly Elections. He was accompanied by Mr Dele Alake, Special Adviser on Media to President-Elect, Asiwaju Bola Ahmed Tinubu, at the Lagos State Government House, Marina, Lagos State",
 
       author: {
         name: "John Doe",
@@ -118,12 +125,13 @@ export const data = {
 
       story_date: "2022-03-21",
 
-      title: "Sample News Title 5",
+      title: "President Buhari celebrates Tony Elumelu at 60",
 
-      excerpt: "This is a sample news article about a topic of interest.",
+      excerpt:
+        "President Muhammadu  Buhari has congratulated Chairman, UBA Plc, Tony Elumelu on the occasion of his 60th birthday today",
 
       story_content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed suscipit leo eu risus volutpat dapibus.",
+        "President Muhammadu  Buhari has congratulated Chairman, UBA Plc, Tony Elumelu on the occasion of his 60th birthday today, saying the distinguished banker, economist, and philanthropist has brought honour and pride to Nigeria and Africa. The Presidential birthday was conveyed through the Special Adviser to the President, Media & Publicity, Femi Adesina. Adesina said: “President Muhammadu Buhari rejoices with distinguished banker, economist, and philanthropist, Tony Elumelu, CFR, on his 60th birthday, March 22, 2023, sharing joy and warmth of the occasion with the entrepreneur, who was ranked amongst World’s 100 most influential personalities in 2020 by Time.",
 
       author: {
         name: "John Doe",
@@ -146,12 +154,13 @@ export const data = {
 
       story_date: "2022-03-21",
 
-      title: "Sample News Title 6",
+      title: "Peter Obi’s election petition will be bust — Keyamo",
 
-      excerpt: "This is a sample news article about a topic of interest.",
+      excerpt:
+        "The Minister of State for Labour and Employment, Festus Keyamo, has reacted to the petition filed by the presidential candidate of the Labour Party, Peter Obi.",
 
       story_content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed suscipit leo eu risus volutpat dapibus.",
+        "The Minister of State for Labour and Employment, Festus Keyamo, has reacted to the petition filed by the presidential candidate of the Labour Party, Peter Obi, calling for the annulment of the February 25 Presidential Election won by the presidential candidate of the All Progressives Congress, Bola Tinubu. According to Keyamo, the petition filed by Obi is filled with ‘deceit, lies, disinformation and misinformation’ and they are about to be bust. He said that Nigerians will soon see the huge difference between dispassionate adjudication of issues and the ‘hoopla caused by garrulous spokespersons shaking & falling on stage. Keyamo tweeted, “I am excited about the issues raised in those Election Petitions. All the deceit & lies & disinformation & misinformation about otherwise very simple and clear issues are about to be busted by our Law Lords. Whoever continues to argue after that should relocate to another planet.",
 
       author: {
         name: "John Doe",
@@ -174,12 +183,14 @@ export const data = {
 
       story_date: "2022-03-21",
 
-      title: "Sample News Title 7",
+      title:
+        "Bauchi: Gov Bala Mohammed ‘forgives’ PDP leaders who worked against him",
 
-      excerpt: "This is a sample news article about a topic of interest.",
+      excerpt:
+        "The Governor of Bauchi State, Bala Mohammed, says he has forgiven top shots within and outside the Peoples Democratic Party (PDP) who worked against his him during the electioneering process",
 
       story_content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed suscipit leo eu risus volutpat dapibus.",
+        "The Governor of Bauchi State, Bala Mohammed, says he has forgiven top shots within and outside the Peoples Democratic Party (PDP) who worked against his him during the electioneering process. Mohammed spoke while featuring on Wednesday on a monitored Channels Television programme. According to him, even now, there are traditional rulers and ulamas who worked with his political opponents. “I have forgiven them. My own is to make sure I unify everybody,” he said. But the governor said the PDP in Bauchi never had anybody who was a member working against him and other stalwarts.",
 
       author: {
         name: "John Doe",
@@ -202,12 +213,13 @@ export const data = {
 
       story_date: "2022-03-21",
 
-      title: "Sample News Title 8",
+      title: "Buhari presides over FEC meeting in Abuja",
 
-      excerpt: "This is a sample news article about a topic of interest.",
+      excerpt:
+        "President Muhammadu Buhari is currently presiding over this week’s Federal Executive Council (FEC) meeting at the Council Chamber of the State House, Abuja. ",
 
       story_content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed suscipit leo eu risus volutpat dapibus.",
+        "President Muhammadu Buhari is currently presiding over this week’s Federal Executive Council (FEC) meeting at the Council Chamber of the State House, Abuja. The meeting which commenced after Buhari’s arrival at 10:01 am also had Vice President Yemi Osinbajo in attendance. Among other attendees were; Secretary to the Government of the Federation, Mr Boss Mustapha; the National Security Adviser, Maj-Gen. Babagana Monguno (retd.); and the Chief of Staff to the President, Professor Ibrahim Gambari. All ministers and their state counterparts were present at the Villa for the meeting.",
 
       author: {
         name: "John Doe",
@@ -230,12 +242,14 @@ export const data = {
 
       story_date: "2022-03-21",
 
-      title: "Sample News Title 9",
+      title:
+        "Guber poll: Abia govt demands removal of Alex Otti’s ‘cousin’ as Returning Officer",
 
-      excerpt: "This is a sample news article about a topic of interest.",
+      excerpt:
+        "The Abia State Government has told the Independent National Electoral Commission (INEC) to immediately remove the state Returning Officer, Mrs Nnenna Otti, over alleged familial ties to the Labour Party governorship candidate, Alex Otti.",
 
       story_content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed suscipit leo eu risus volutpat dapibus.",
+        "The Abia State Government has told the Independent National Electoral Commission (INEC) to immediately remove the state Returning Officer, Mrs Nnenna Otti, over alleged familial ties to the Labour Party governorship candidate, Alex Otti. The Government also tackled Otti over his allegation that the Peoples Democratic Party (PDP) and Governor Okezie Ikpeazu are plotting to rig the governorship election. The Commissioner for Information and Strategy Abia State, Eze Chikamnayo, in a statement on Tuesday, accused Otti of brandishing false claims and instigating innocent citizens. Chikamnayo said the LP candidate is attempting to use strong-arm tactics, blackmail, and violence as instruments for what he termed as fraudulent power acquisition.",
 
       author: {
         name: "John Doe",
@@ -258,12 +272,14 @@ export const data = {
 
       story_date: "2022-03-21",
 
-      title: "Sample News Title 10",
+      title:
+        "Presidential Poll: Atiku files petition, insists Tinubu not qualified to contest",
 
-      excerpt: "This is a sample news article about a topic of interest.",
+      excerpt:
+        "Candidate of the Peoples Democratic Party, PDP, Atiku Abubakar has filed a petition to challenge the declaration of Bola Tinubu of the ruling All Progressives Congress, APC, as the winner of the presidential election that was held on February 25",
 
       story_content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed suscipit leo eu risus volutpat dapibus.",
+        "Candidate of the Peoples Democratic Party, PDP, Atiku Abubakar has filed a petition to challenge the declaration of Bola Tinubu of the ruling All Progressives Congress, APC, as the winner of the presidential election that was held on February 25. Atiku, in the petition, marked: CA/PEPC/05/2023, which he lodged before the Presidential Election Petition Court, PEPC, sitting at the Abuja Division of the Court of Appeal, applied for the withdrawal of the Certificate of Return that was issued to Tinubu by the Independent National Electoral Commission, INEC. He maintained that the declaration of Tinubu as the winner of the presidential election was “invalid by reason of non-compliance with the provisions of the Electoral Act, 2022”.",
 
       author: {
         name: "John Doe",
